@@ -1,1 +1,1 @@
-place the real-world data and experiments that you use to validate your model
+Our agent-based model follows the SIR model which can be found at https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/.

@@ -1,0 +1,2 @@
+This project needs NetLogo to run.
+Python 3 with Numpy, Scipy, and Matplotlib is needed in order to run /scripts/sir_model.py

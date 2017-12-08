@@ -1,0 +1,9 @@
+Behavior Rules:
+- Turtles (people) move around randomly according to the set probability of moving.
+
+-- If an infected turtle (red) approaches near an uninfected and non-vaccinated turtle (blue), 
+-- the uninfected turtle will become infected (red). 
+
+-- If an infected turtle (red) approaches near an uninfected and vaccinated turtle (green),
+-- the uninfected turtle will remain uninfected.
+

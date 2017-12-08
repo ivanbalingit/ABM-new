@@ -1,2 +1,1 @@
-This is where you put plots or other human readable results of your output.
-Large ugly behavior space csv files go to the db folder
+Plots are in this folder. Plots are named as "<X>-<Y>.png", where X is the percent of people vaccinated, and Y is the initial percentage of people infected.
